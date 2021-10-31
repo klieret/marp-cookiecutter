@@ -1,0 +1,5 @@
+{
+   "presentation_short_name": "groupm",
+   "date_str": "{% now 'local', '%y%m%d' %}",
+   "presentation_name": "{{cookiecutter.date_str}}_{{cookiecutter.presentation_short_name}}"
+}
